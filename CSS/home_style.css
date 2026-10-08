@@ -133,10 +133,6 @@ footer a:hover {
     color: #ee82ff;
 }
 
-/* ========================================= */
-/* Responsive Design (Step 6 din Laborator) */
-/* ========================================= */
-
 @media (max-width: 900px) {
     main {
         width: 100%;
